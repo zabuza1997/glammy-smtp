@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Architecture';
+    src: url('ArchitecturePlain.woff2') format('woff2'),
+        url('ArchitecturePlain.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
